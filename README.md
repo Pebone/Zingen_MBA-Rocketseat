@@ -31,6 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto você vai desenvolver a Landing Page de marketing completa e responsiva de um aplicativo de Karaokê chamado Zingen.
+Nesse projeto foi desenvolvido uma Landing Page de marketing completa e responsiva de um aplicativo de Karaokê chamado Zingen.
 
-Vamos aprender várias técnicas de CSS e como deixar um projeto responsivo.
+Aprendi várias técnicas de CSS e como deixar um projeto responsivo.
