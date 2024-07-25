@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Projeto de uma landing page de produto desenvolvido durante as aulas sobre Responsividade na Rocketseat.
+Projeto de uma landing page de produto desenvolvido durante as aulas sobre Responsividade no curso de Pós-Gradução em Desenvolvimento Fullstack da Rocketseat.
 </p>
 
 <p align="center">
